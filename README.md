@@ -1,2 +1,1 @@
-# tindog-responsie-website
-built with bootstrap
+TinDog Starting Files
